@@ -1,5 +1,14 @@
 # CVRecon: Rethinking 3D Geometric Feature Learning for Neural Reconstruction
 
+Project Page: [cvrecon.ziyue.cool](https://cvrecon.ziyue.cool)
+
+Dear readers:
+
+Apologize for late release of the code, I have been too busy recently so still have not got time to clean up the code.
+
+I hope this initial release could give you some idea about how the CVRecon works. The implementation is based on the Cost Volume of "SimpleRecon" and the framework of "VoRTX".
+
+I will clean up the code as soon as I got time.
 
 ### Dependencies
 
@@ -76,3 +85,15 @@ python scripts/inference.py \
 ## Evaluation
 
 Refer to the evaluation protocal by Atlas and TransformerFusion
+
+# Citation
+```
+@misc{feng2023cvrecon,
+  title={CVRecon: Rethinking 3D Geometric Feature Learning For Neural Reconstruction}, 
+  author={Ziyue Feng and Leon Yang and Pengsheng Guo and Bing Li},
+  year={2023},
+  eprint={2304.14633},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
+```
