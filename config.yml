@@ -1,0 +1,41 @@
+n_imgs_train: 20
+n_imgs_val: 20
+n_imgs_test: 20
+crop_size_train: [96, 96, 48]
+crop_size_val: [96, 96, 48]
+crop_size_test: [96, 96, 48]
+attn_heads: 2
+attn_layers: 2
+use_proj_occ: False
+
+ckpt: null
+wandb_runid: null
+
+seed: 0
+use_amp: True
+nworkers: 8
+
+initial_epochs: 350
+initial_lr: .001
+initial_batch_size: 2
+
+finetune_epochs: 150
+finetune_lr: .0001
+finetune_batch_size: 1
+
+wandb_project_name: "cvrecon"
+
+scannet_dir: "ScanNet2/cvrecon"
+tsdf_dir: "ScanNet2/cvrecon_gt"
+
+SRfeat: False
+SR_vi_ebd: False
+SRCV: False
+
+cost_volume: True
+cv_dim: 15
+cv_overall: True
+
+depth_head: False
+
+accu_grad: 1
