@@ -7,8 +7,8 @@ By [Ziyue Feng](https://ziyue.cool), [Liang Yang](https://ericlyang.github.io/),
 Project Page: [cvrecon.ziyue.cool](https://cvrecon.ziyue.cool)
 
 ## Video
-[![image](https://github.com/fengziyue/CVRecon/assets/21237230/6ee5aa5a-a963-425a-9830-bba446fc0263)](https://youtu.be/AVbbx4TBFf8)
 
+[![image](https://i.ibb.co/KjpVBN5/Screenshot-2023-09-17-at-11-31-15-PM.png)](https://www.youtube.com/watch?v=AVbbx4TBFf8)
 
 Dear readers:
 
