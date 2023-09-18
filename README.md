@@ -1,6 +1,6 @@
 # CVRecon: Rethinking 3D Geometric Feature Learning for Neural Reconstruction
 
-This paper has been accepted by [ECCV 2022](https://eccv2022.ecva.net/)
+This paper has been accepted by [ICCV 2023](https://iccv2023.thecvf.com)
 
 By [Ziyue Feng](https://ziyue.cool), [Liang Yang](https://ericlyang.github.io/), [Pengsheng Guo](https://psguo.github.io), and [Bing Li](https://www.clemson.edu/cecas/departments/automotive-engineering/people/li.html).
 
